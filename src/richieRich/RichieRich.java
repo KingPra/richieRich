@@ -6,6 +6,7 @@ public class RichieRich {
 		System.out.println("King, I want you to see this!");
 		System.out.println("Rich, oh joy it works!");
 		System.out.println("How are you doing king?");
+		System.out.println("For you, the answers, I have");
 	}
 
 }
