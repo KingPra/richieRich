@@ -8,6 +8,7 @@ public class RichieRich {
 		System.out.println("How are you doing king?");
 		System.out.println("For you, the answers, I have");
 		System.out.println("Maybe we should start over and try again with our new knowledge");
+		System.out.println("k");
 	}
 
 }
