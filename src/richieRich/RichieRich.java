@@ -10,6 +10,7 @@ public class RichieRich {
 		System.out.println("Maybe we should start over and try again with our new knowledge");
 		System.out.println("k");
 		System.out.println("I see your a man of many words");
+		System.out.println("tst branch");
 	}
 
 }
